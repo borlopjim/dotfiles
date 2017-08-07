@@ -1,0 +1,22 @@
+{
+    "name": "theme-gruvbox",
+    "displayName": "custom gruvbox",
+    "description": "custom gruvbox theme",
+    "version": "0.0.1",
+    "publisher": "borlopjim",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gruvbox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox.tmTheme"
+            }
+        ]
+    }
+}
