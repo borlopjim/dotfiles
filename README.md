@@ -11,7 +11,7 @@ This are my dotfiles for my wm configuration
 
 ## Screenshots
 
-![screenshot](screenshots/screenshot.png "Visual Studio Code, gnome-terminal, neofetch, pipes)
+![screenshot](screenshots/screenshot.png "Visual Studio Code, gnome-terminal, neofetch, pipes")
 ![screenshot](screenshots/screenshot2.png "rofi")
 ![screenshot](screenshots/screenshot3.png "clean")
 
